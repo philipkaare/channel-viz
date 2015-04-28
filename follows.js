@@ -148,7 +148,7 @@
 										element: document.querySelector('#graph-' + feedId + '-' + datastream.id),
 										width: 600,
 										height: 200,
-										renderer: 'scatterplot',
+										renderer: 'line',
 										min: 0,
 										max: 100,
 										padding: {
